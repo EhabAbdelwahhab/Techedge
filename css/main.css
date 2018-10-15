@@ -99,10 +99,34 @@ overflow: hidden;
     position: absolute;
     height: auto;
 }
-#main-nav{
-color: #fff;
 
+
+
+#main-nav {
+    float: right;
+    width: 50%;
+    padding-top:12px;
+   
+    }
+
+#main-nav a{
+        color: #fff;
 }
+#main-nav li{
+    float:left;
+    padding: 3px 5px 0 5px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    list-style: square;
+    color: #fff;
+    list-style-type: none;
+}
+   
+
+
+
+               
 
 
 
