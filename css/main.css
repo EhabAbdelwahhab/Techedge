@@ -112,15 +112,42 @@ overflow: hidden;
 #main-nav a{
         color: #fff;
 }
+
+#main-nav ul{
+float: right;
+
+}
+
 #main-nav li{
     float:left;
     padding: 3px 5px 0 5px;
+    margin: 0 15px;
     font-size: 15px;
     text-transform: uppercase;
     font-weight: bold;
     list-style: square;
     color: #fff;
-    list-style-type: none;
+    
+}
+#content{
+    float: left;
+    width: 63%; 
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 0 20px 20px 20px;
+}
+
+article {
+    border-bottom: 1px dotted #ccc;
+    padding: 10px 0 20px 0;
+}
+
+article img{
+    width: 100%;
+    }
+#sidebar{
+    float: right;
+    width:30%;
 }
    
 
