@@ -145,6 +145,10 @@ article {
 article img{
     width: 100%;
     }
+article h2{
+     margin: 0;
+     padding-top: 10px;
+            }
 #sidebar{
     float: right;
     width:30%;
