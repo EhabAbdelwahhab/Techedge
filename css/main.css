@@ -197,7 +197,86 @@ article .readmore:hover{
     float: right;
 
 }
+
+#sub-nav {
+    padding: 20px 0 20px 0;
    
+    }
+
+#sub-nav li{
+        font-size: 16px;
+        font-weight: bold;
+        padding: 5px 0 5px 0;
+        border-bottom: dotted 1px #333;
+}
+
+#sub-nav a{
+color: #333
+
+}
+
+#sub-nav a:hover, #sub-nav a.active{
+    color: #ff0000;
+    
+     
+    
+}
+.ad img{
+    width: 100%;
+}
+   
+#main-footer{
+    background: #333;
+    color: #fff;
+    min-height: 180px;
+    margin-top: 20px;
+    overflow: auto;
+
+} 
+
+
+#main-footer a{
+    color: #fff;
+    
+    
+} 
+#main-footer .copy{
+
+   padding:  20px 0 0 0;
+
+}
+
+#main-footer .footer-left{
+    float: left;
+    width: 30%;
+   
+}
+
+#main-footer .footer-right{
+    float: right;
+    width: 70%;
+    
+
+   }
+  
+
+#main-footer .footer-nav{
+    float: left;
+    font-size: 15px;
+    width: 31%;
+    padding: 20px 0 20px 0;
+    margin-right: 10px;
+
+}
+
+#main-footer .footer-nav li{
+    
+    padding: 5px 0 5px 0;
+    border-bottom: dotted #666 1px;
+    list-style-type: none;
+}
+
+
 
 
 
