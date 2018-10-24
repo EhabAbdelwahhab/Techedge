@@ -82,6 +82,7 @@ overflow: hidden;
     background: #333;
     overflow: hidden;
     margin-bottom: 20px;
+    
 }
 
 #branding {
@@ -160,6 +161,12 @@ article .meta {
     padding: 5px;
     background: #333;
     color: #fff;
+}
+
+article .meta span{
+    float: right;
+
+
 }
 article .readmore{
 background: #f4f4f4;
